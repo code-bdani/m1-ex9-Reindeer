@@ -1,5 +1,5 @@
 # Reindeer
-The Reindeer Exercise from "01-the-static-web" milestone
+The [Reindeer Exercise](https://github.com/nashville-software-school/ux-developer-milestones/blob/master/1-the-static-web/learning-materials/JS_REINDEER.md) from "01-the-static-web" milestone
 
 ## The Why
 To learn how to join items from an array into new strings
@@ -9,6 +9,7 @@ To learn how to join items from an array into new strings
 Paste the following code into the `<body>` of the HTML file.
 
 `<div id="reindeer"></div>`
+
 Paste the following code into your JavaScript file.
 
 ```

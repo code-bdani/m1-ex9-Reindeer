@@ -9,6 +9,7 @@ To learn how to join items from an array into new strings
 Paste the following code into the `<body>` of the HTML file.
 
 `<div id="reindeer"></div>`
+
 Paste the following code into your JavaScript file.
 
 ```
